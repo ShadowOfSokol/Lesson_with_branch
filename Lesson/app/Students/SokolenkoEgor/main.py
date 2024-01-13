@@ -1,9 +1,9 @@
 if __name__ == "__main__":
 
-# n1 = input("first number: ")
-# n2 = input("second number: ")
+    # n1 = input("first number: ")
+    # n2 = input("second number: ")
 
 
-def FunkSubtraction(n1, n2):
-    return n1 - n2
+    def FunkSubtraction(n1, n2):
+        return n1 - n2
 
