@@ -4,6 +4,6 @@ if __name__ == "__main__":
     # n2 = input("second number: ")
 
 
-    def FunkSubtraction(n1, n2):
+    def FunkSubtraction(self,n1, n2):
         return n1 - n2
 
